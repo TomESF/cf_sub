@@ -47,6 +47,8 @@ arnold.ns.cloudflare.com
 nia.ns.cloudflare.com
 m.happymh.com
 www.hkepc.com
+anton.ns.cloudflare.com
+eleanor.ns.cloudflare.com
 104.16.0.0
 104.17.0.0
 104.18.0.0
